@@ -3664,7 +3664,7 @@
     slash "^3.0.0"
     xmldoc "^1.1.2"
 
-"@react-native-community/cli-platform-ios@^3.0.0-alpha.1", "@react-native-community/cli-platform-ios@^3.0.0-alpha.7":
+"@react-native-community/cli-platform-ios@3.0.0", "@react-native-community/cli-platform-ios@^3.0.0-alpha.1", "@react-native-community/cli-platform-ios@^3.0.0-alpha.7":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-platform-ios/-/cli-platform-ios-3.0.0.tgz#3a48a449c0c33af3b0b3d19d3256de99388fe15f"
   integrity sha512-QoNVlDj8eMXRZk9uktPFsctHurQpv9jKmiu6mQii4NEtT2npE7g1hbWpRNojutBsfgmCdQGDHd9uB54eeCnYgg==
@@ -5719,9 +5719,9 @@ bplist-parser@0.2.0:
     big-integer "^1.6.44"
 
 brace-expansion@^1.1.7:
-  version "1.1.11"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.11.tgz#3c7fcbf529d87226f3d2f52b966ff5271eb441dd"
-  integrity sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA==
+  version "1.1.21"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.21.tgz#edf4fab5c64d051aea5a8def49aba1c7522279f3"
+  integrity sha512-9zeA+KLZNNzglF2TPKRQEDyx6Yby7daAkuy8MiPzpXPsYDWi/DRM8jmwUDxokQjYqBpv5DgPiwD4h4ZZSy1Ujw==
   dependencies:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
